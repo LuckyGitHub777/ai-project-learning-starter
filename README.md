@@ -8,4 +8,4 @@ Three practical templates for creating clear, testable AI project instructions.
 
 Choose a template, adapt it to your authorized work, and review factual claims before relying on an output. These are static instructions, not a hosted agent, a performance guarantee, or permission to access accounts or private data. Use fictional placeholders when sharing examples.
 
-**License:** The included MIT [LICENSE](LICENSE) applies to the templates. [SHA256SUMS.txt](SHA256SUMS.txt) records exact source checksums.
+**License:** The included MIT [LICENSE](LICENSE) applies to the templates. [MANIFEST.sha256](MANIFEST.sha256) records exact source checksums.
