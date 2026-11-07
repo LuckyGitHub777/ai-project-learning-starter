@@ -1,5 +1,7 @@
 # AI Project Learning Starter
 
+**Explore online:** [Open the AI Project Learning Starter website](https://luckygithub777.github.io/ai-project-learning-starter/). Discover the templates and choose the next step for your project.
+
 Three practical templates for creating clear, testable AI project instructions.
 
 - [Project Architect](templates/project-architect.md) — define scope, operating rules, evidence and acceptance criteria.
